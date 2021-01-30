@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "232983541068",
+    "firebase_url": "https://pavan-blog-2def8.firebaseio.com",
+    "project_id": "pavan-blog-2def8",
+    "storage_bucket": "pavan-blog-2def8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232983541068:android:f3d6d35f992ac06f0d0be9",
+        "android_client_info": {
+          "package_name": "com.android.pavanblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232983541068-rtb5l0300c5egri0sqn4jogfufbkmg3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.pavanblog",
+            "certificate_hash": "cf65cdd89be748c8a8a5d266723edc4dada9019e"
+          }
+        },
+        {
+          "client_id": "232983541068-421qapo9hfe2n5j774266g9vk6ruu7jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0kJUP3mFW65-RqyyHMm1LAt5oKPtV_-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232983541068-421qapo9hfe2n5j774266g9vk6ruu7jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
